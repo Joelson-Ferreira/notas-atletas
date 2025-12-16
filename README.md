@@ -29,6 +29,8 @@ Você deverá criar um repositório na sua conta do GitHub chamado notas-atletas
 **Aluno**<br>
 
 - Joelson Ferreira - <a href="https://www.linkedin.com/in/joelsonferreira/" target="_blank">LinkedIn</a>
-  
+
+**Como executar o código?**<br>
+Copie o arquivo "notas-atletas.js" para uma pasta de projeto Java Script, em seu VSCode, e execute o código.
   
 <br>**ATENÇÃO: Por favor, lembre-se de que os resultados desta trabalho são para fins acadêmicos, e não representa verdade absoluta. Use essas informações com discernimento e considere outras fontes e contexto antes de tirar conclusões definitivas.**
