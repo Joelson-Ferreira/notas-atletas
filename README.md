@@ -4,7 +4,7 @@ Projeto final referente ao módulo "Lógica de programação" com Java Script do
 **Projeto de certificação 1 - Pontuação dos atletas**<br>
 
 <p align="center">
-  <img width="720" height="420" src="https://www.cob.org.br/_next/image?url=https%3A%2F%2Fadmin.cob.org.br%2Fuploads%2FRebeca_Andrade_Ginastica_Artistica_Foto_Gaspar_Nobrega_COB_244a4a1b6e.webp&w=828&q=75">
+  <img width="720" height="420" src="https://cdn.pixabay.com/photo/2015/06/05/05/23/effect-798150_960_720.jpg">
 </p>
 
 **Resumo do projeto**<br>
